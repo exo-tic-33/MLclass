@@ -23,6 +23,6 @@ Esto es un __*texto en negrita y cursiva*__.
 
 lunes | martes | miercoles | jueves | viernes
 --- | --- | --- | --- | ---
-`12:45 / 13:45` | `*NO Hay*` | `*NO Hay*` | `10:45 / Rec / 12:45` | `*NO Hay*`
+`12:45 / 13:45` | `NO Hay` | `NO Hay` | `10:45 / Rec / 12:45` | `NO Hay`
 
 
